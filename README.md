@@ -12,7 +12,13 @@ write on terminal <br>
 -> node app.js <br>
 
 ## Preview
-![](public/image/Screenshot_login.png)
+![](public/image/Screenshot_login.png) 
+![](public/image/Screenshot_b.png)
+![](public/image/Screenshot_c.png)
+![](public/image/Screenshot_d.png)
+![](public/image/Screenshot_e.png)
+![](public/image/Screenshot_f.png)
+
 
 
 
