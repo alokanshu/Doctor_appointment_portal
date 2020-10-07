@@ -8,6 +8,7 @@
 ## How to run application
 To run the web-app <br>
 write on terminal <br>
+-> start Apache and MySql in XAMPP control panel <br>
 -> npm install express <br>
 -> node app.js <br>
 
